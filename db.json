@@ -1,0 +1,161 @@
+{
+  "shoes": [
+    {
+      "id": "shoe1",
+      "name": "NIKE AIR ZOOM PEGASUS 38",
+      "picture": ["/view-1.png", "/view-2.png", "/view-3.png", "/view-4.png"],
+      "description": "The perfect balance of comfort and performance for runners. Featuring Pure Platinum and University Red accents, this versatile running shoe provides lightweight cushioning and superior support for every stride. Enjoy free shipping, returns, and exchanges by joining adiClub.",
+      "isNew": true,
+      "discount": 10,
+      "size": "38,40,41,42,44,46",
+      "color": "blue,gray",
+      "gender": "men",
+      "price": 150
+    },
+    {
+      "id": "shoe2",
+      "name": "PUMA ULTRARIDE",
+      "picture": ["/item-2.png", "/item-4.png", "/item-3.png", "/item-1.png"],
+      "description": "Lightweight and responsive, this Black and White running shoe is designed for women seeking agility and speed. Its breathable construction and cushioned sole ensure a smooth ride, whether you're training or hitting the track. Free shipping and returns available with adiClub membership.",
+      "isNew": true,
+      "size": "38,39,40",
+      "color": "black,white",
+      "gender": "women",
+      "price": 200
+    },
+    {
+      "id": "shoe3",
+      "name": "NEW BALANCE FUELCELL PRISM",
+      "picture": ["/item-3.png", "/item-4.png", "/item-2.png", "/item-1.png"],
+      "description": "A sleek, performance-driven running shoe featuring Light Aluminum and Black tones. Built with FuelCell technology for enhanced propulsion and energy return, making it ideal for high-mileage runners. Enjoy free shipping, returns, and exchanges as an adiClub member.",
+      "isNew": false,
+      "size": "41,42,43,45,38",
+      "color": "light-gray,black",
+      "gender": "men",
+      "price": 250
+    },
+    {
+      "id": "shoe4",
+      "name": "ASICS GEL-NIMBUS 23",
+      "picture": ["/item-1.png", "/item-4.png", "/item-3.png", "/item-2.png"],
+      "description": "Experience ultimate comfort with this Midnight and Champagne-colored running shoe. Featuring GEL cushioning for impact absorption, this shoe is perfect for long runs or everyday use. Free shipping, returns, and exchanges are available for adiClub members.",
+      "isNew": false,
+      "size": "35,42,36,39",
+      "color": "blue,brown",
+      "gender": "women",
+      "price": 300
+    },
+    {
+      "id": "shoe5",
+      "name": "SAUCONY ENDORPHIN SPEED",
+      "picture": ["/item-5.png", "/item-2.png", "/item-3.png", "/item-1.png"],
+      "description": "Designed for speed and performance, this Black and Gold running shoe features innovative PWRRUN cushioning for maximum energy efficiency during fast-paced runs. Perfect for competitive runners aiming for new personal bests. Free shipping with adiClub.",
+      "isNew": true,
+      "size": "38,40,42,44",
+      "color": "black,orange",
+      "gender": "men",
+      "price": 350
+    },
+    {
+      "id": "shoe6",
+      "name": "BROOKS GHOST 14",
+      "discount": 20,
+      "picture": ["/item-6.png", "/item-3.png", "/item-5.png", "/item-4.png"],
+      "description": "A versatile Blue and White running shoe designed for both beginners and seasoned runners. The DNA LOFT cushioning provides a soft, smooth ride, while the breathable mesh ensures optimal comfort. Free shipping, returns, and exchanges for adiClub members.",
+      "isNew": true,
+      "size": "39,40,41",
+      "color": "blue,light-gray",
+      "gender": "women",
+      "price": 400
+    },
+    {
+      "id": "shoe7",
+      "name": "HOKA ONE ONE CLIFTON 8",
+      "picture": ["/item-4.png", "/item-3.png", "/item-2.png", "/item-1.png"],
+      "description": "Crafted for endurance, this Turquoise and Coral running shoe delivers maximum cushioning without sacrificing speed. The lightweight design makes it a favorite for marathon runners. Join adiClub for free shipping and returns.",
+      "isNew": false,
+      "size": "40,41,43,46",
+      "color": "green,orange",
+      "gender": "men",
+      "price": 450
+    },
+    {
+      "id": "shoe8",
+      "name": "MIZUNO WAVE RIDER 25",
+      "picture": ["/item-3.png", "/item-4.png", "/item-2.png", "/item-1.png"],
+      "description": "Combining style and function, this Gray and White running shoe features Wave technology for enhanced stability and a smooth ride. Ideal for long-distance runs and casual wear alike. Enjoy free shipping with adiClub membership.",
+      "isNew": true,
+      "size": "39,36,37,38,40",
+      "color": "gray,white",
+      "gender": "women",
+      "price": 500
+    },
+    {
+      "id": "shoe9",
+      "name": "UNDER ARMOUR HOVR MACHINA",
+      "discount": 40,
+      "picture": ["/item-5.png", "/item-2.png", "/item-3.png", "/item-1.png"],
+      "description": "Push your limits with this Red and Black running shoe, designed with HOVR technology for zero-gravity feel and energy return. Ideal for high-performance athletes aiming to achieve peak performance.",
+      "isNew": false,
+      "size": "38,40,43,45",
+      "color": "red,black",
+      "gender": "men",
+      "price": 550
+    },
+    {
+      "id": "shoe10",
+      "name": "ALTRA TORIN 5",
+      "picture": ["/item-1.png", "/item-4.png", "/item-3.png", "/item-2.png"],
+      "description": "An ultra-comfortable Gray and Blue running shoe designed for all-day wear. Featuring balanced cushioning and a foot-shaped design, it promotes natural alignment and stability. Free shipping and returns with adiClub.",
+      "isNew": true,
+      "size": "39,41,42,38,36",
+      "color": "gray,blue",
+      "gender": "women",
+      "price": 600
+    },
+    {
+      "id": "shoe11",
+      "name": "REEBOK NANO X1",
+      "picture": ["/item-3.png", "/item-1.png", "/item-4.png", "/item-2.png"],
+      "description": "Built for versatility, this Dark Gray and Black training shoe is ideal for gym workouts and cross-training. Its durable sole provides excellent grip and support for a variety of exercises. Free shipping and returns with adiClub.",
+      "isNew": true,
+      "size": "38,39,40,45,46",
+      "color": "dark-gray,black",
+      "gender": "men",
+      "price": 650
+    },
+    {
+      "id": "shoe12",
+      "name": "SALOMON SPEEDCROSS 5",
+      "picture": ["/item-2.png", "/item-1.png", "/item-4.png", "/item-3.png"],
+      "description": "Conquer trails with this Gray and Blue trail running shoe. Its aggressive grip and protective design ensure stability and durability in rugged terrains. Join adiClub for free shipping and returns.",
+      "isNew": true,
+      "size": "40,41,42,38,39",
+      "color": "gray,blue",
+      "gender": "women",
+      "price": 700
+    },
+    {
+      "id": "shoe13",
+      "name": "INOV-8 TERRAULTRA G 270",
+      "picture": ["/item-3.png", "/item-1.png", "/item-4.png", "/item-2.png"],
+      "description": "A trail-running powerhouse in Blue and Yellow, designed for ultra-distance athletes. Featuring Graphene-enhanced soles for unmatched durability and grip on challenging surfaces. Enjoy free shipping and returns with adiClub membership.",
+      "isNew": true,
+      "size": "38,40,42,45",
+      "color": "blue,yellow",
+      "gender": "men",
+      "price": 750
+    },
+    {
+      "id": "shoe14",
+      "name": "MERRELL MOAB 2 VENT",
+      "picture": ["/item-4.png", "/item-1.png", "/item-3.png", "/item-2.png"],
+      "description": "Perfect for hiking, this Brown and Orange shoe offers breathable ventilation and rugged durability. Its Vibram sole ensures reliable traction on various terrains. Free shipping and returns with adiClub.",
+      "isNew": true,
+      "size": "39,41,42,40",
+      "color": "brown,orange",
+      "gender": "women",
+      "price": 800
+    }
+  ]
+}
