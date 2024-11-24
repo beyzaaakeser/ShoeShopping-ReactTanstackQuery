@@ -25,7 +25,7 @@ const Header = () => {
         <img src="/user.svg" className="size-4 md:size-5 lg:size-6 xl:size-7" />
         <img
           src="/search.svg"
-          className="size-4 md:size-5 lg:size-6 xl:size-7"
+          className="size-4 md:size-5 lg:size-6 xl:size-7 max-lg:hidden"
         />
         <span className="size-8 md:size-10 lg:size-11 md:text-lg bg-yellow rounded-full grid place-items-center font-open font-semibold">
           0

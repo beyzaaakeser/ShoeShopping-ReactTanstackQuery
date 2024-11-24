@@ -1,6 +1,8 @@
-import React from 'react';
-
-const Error = () => {
+type Props = {
+  info: string;
+  refetch: () => void;
+};
+const Error = ({ info, refetch }: Props) => {
   return <div>Error</div>;
 };
 
