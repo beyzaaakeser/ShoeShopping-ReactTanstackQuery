@@ -129,18 +129,19 @@
       "name": "SALOMON SPEEDCROSS 5",
       "picture": ["/item-2.png", "/item-1.png", "/item-4.png", "/item-3.png"],
       "description": "Conquer trails with this Gray and Blue trail running shoe. Its aggressive grip and protective design ensure stability and durability in rugged terrains. Join adiClub for free shipping and returns.",
-      "isNew": true,
+      "isNew": false,
       "size": "40,41,42,38,39",
       "color": "gray,blue",
       "gender": "women",
-      "price": 700
+      "price": 700,
+      "discount": 20
     },
     {
       "id": "shoe13",
       "name": "INOV-8 TERRAULTRA G 270",
       "picture": ["/item-3.png", "/item-1.png", "/item-4.png", "/item-2.png"],
       "description": "A trail-running powerhouse in Blue and Yellow, designed for ultra-distance athletes. Featuring Graphene-enhanced soles for unmatched durability and grip on challenging surfaces. Enjoy free shipping and returns with adiClub membership.",
-      "isNew": true,
+      "isNew": false,
       "size": "38,40,42,45",
       "color": "blue,yellow",
       "gender": "men",
