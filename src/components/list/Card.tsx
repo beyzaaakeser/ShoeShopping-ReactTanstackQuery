@@ -24,9 +24,8 @@ const Card = ({ item }: Props) => {
           {item.name}
         </h2>
       </div>
-      <Link
-        to={'/'}
-        className="bg-gray-dark text-center flex items-center justify-center gap-1 text-white font-medium px-4 py-2 rounded-lg transition hover:bg-black  "
+      <Link to={`/detail/:${item.id}`}
+        className="bg-gray-dark text-center flex items-center justify-center gap-1 text-white font-medium px-4 py-2 rounded-lg transition hover:bg-black text-nowrap max-md:text-sm "
       >
         Discover More - <Price item={item} />
       </Link>

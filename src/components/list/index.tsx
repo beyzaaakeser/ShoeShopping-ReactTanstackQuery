@@ -4,11 +4,20 @@ import { Shoe } from '../../types';
 import Loader from '../loader';
 import Error from '../error';
 import Card from './Card';
+import { useSearchParams } from 'react-router-dom';
+import formatParams from '../../utils/formatParams';
 
 const List = () => {
+  const [params, setParams] = useSearchParams();
+
+  const paramsObj = Object.fromEntries(params.entries());
+
+  const paramsUrl = formatParams(paramsObj);
+  console.log(paramsUrl);
+
   const { isLoading, error, data, refetch } = useQuery<Shoe[]>({
-    queryKey: ['shoes'],
-    queryFn: () => api.get(`/shoes`).then((res) => res.data),
+    queryKey: ['shoes', paramsUrl],
+    queryFn: () => api.get(`/shoes${paramsUrl}`).then((res) => res.data),
   });
 
   if (isLoading) return <Loader />;

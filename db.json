@@ -9,18 +9,18 @@
       "discount": 10,
       "size": "38,40,41,42,44,46",
       "color": "blue,gray",
-      "gender": "men",
+      "gender": "man",
       "price": 150
     },
     {
       "id": "shoe2",
       "name": "PUMA ULTRARIDE",
       "picture": ["/item-2.png", "/item-4.png", "/item-3.png", "/item-1.png"],
-      "description": "Lightweight and responsive, this Black and White running shoe is designed for women seeking agility and speed. Its breathable construction and cushioned sole ensure a smooth ride, whether you're training or hitting the track. Free shipping and returns available with adiClub membership.",
+      "description": "Lightweight and responsive, this Black and White running shoe is designed for woman seeking agility and speed. Its breathable construction and cushioned sole ensure a smooth ride, whether you're training or hitting the track. Free shipping and returns available with adiClub membership.",
       "isNew": true,
       "size": "38,39,40",
       "color": "black,white",
-      "gender": "women",
+      "gender": "woman",
       "price": 200
     },
     {
@@ -31,7 +31,7 @@
       "isNew": false,
       "size": "41,42,43,45,38",
       "color": "light-gray,black",
-      "gender": "men",
+      "gender": "man",
       "price": 250
     },
     {
@@ -42,7 +42,7 @@
       "isNew": false,
       "size": "35,42,36,39",
       "color": "blue,brown",
-      "gender": "women",
+      "gender": "woman",
       "price": 300
     },
     {
@@ -53,7 +53,7 @@
       "isNew": true,
       "size": "38,40,42,44",
       "color": "black,orange",
-      "gender": "men",
+      "gender": "man",
       "price": 350
     },
     {
@@ -65,7 +65,7 @@
       "isNew": true,
       "size": "39,40,41",
       "color": "blue,light-gray",
-      "gender": "women",
+      "gender": "woman",
       "price": 400
     },
     {
@@ -76,7 +76,7 @@
       "isNew": false,
       "size": "40,41,43,46",
       "color": "green,orange",
-      "gender": "men",
+      "gender": "man",
       "price": 450
     },
     {
@@ -87,7 +87,7 @@
       "isNew": true,
       "size": "39,36,37,38,40",
       "color": "gray,white",
-      "gender": "women",
+      "gender": "woman",
       "price": 500
     },
     {
@@ -99,18 +99,18 @@
       "isNew": false,
       "size": "38,40,43,45",
       "color": "red,black",
-      "gender": "men",
+      "gender": "man",
       "price": 550
     },
     {
       "id": "shoe10",
       "name": "ALTRA TORIN 5",
       "picture": ["/item-1.png", "/item-4.png", "/item-3.png", "/item-2.png"],
-      "description": "An ultra-comfortable Gray and Blue running shoe designed for all-day wear. Featuring balanced cushioning and a foot-shaped design, it promotes natural alignment and stability. Free shipping and returns with adiClub.",
+      "description": "An ultra-comfortable Gray and Blue running shoe designed for all-day wear. Featuring balanced cushioning and a foot-shaped design, it promotes natural alignmant and stability. Free shipping and returns with adiClub.",
       "isNew": true,
       "size": "39,41,42,38,36",
       "color": "gray,blue",
-      "gender": "women",
+      "gender": "woman",
       "price": 600
     },
     {
@@ -121,7 +121,7 @@
       "isNew": true,
       "size": "38,39,40,45,46",
       "color": "dark-gray,black",
-      "gender": "men",
+      "gender": "man",
       "price": 650
     },
     {
@@ -132,7 +132,7 @@
       "isNew": false,
       "size": "40,41,42,38,39",
       "color": "gray,blue",
-      "gender": "women",
+      "gender": "woman",
       "price": 700,
       "discount": 20
     },
@@ -144,7 +144,7 @@
       "isNew": false,
       "size": "38,40,42,45",
       "color": "blue,yellow",
-      "gender": "men",
+      "gender": "man",
       "price": 750
     },
     {
@@ -155,7 +155,7 @@
       "isNew": true,
       "size": "39,41,42,40",
       "color": "brown,orange",
-      "gender": "women",
+      "gender": "woman",
       "price": 800
     }
   ]
