@@ -37,6 +37,8 @@ The interface is modern, responsive, and designed for user-friendliness, thanks 
 
 ![](/public/filter-list.png)
 
+![](/public/filter2.png)
+
 <h5>Detail Page</h5>
 
 ![](/public/detail.png)
