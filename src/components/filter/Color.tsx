@@ -13,7 +13,7 @@ const Color = ({ selected, setSelected }: FilterProps<string[]>) => {
 
   return (
     <div className="lg:mt-5">
-      <h2 className="mb-4 font-semibold">Size</h2>
+      <h2 className="mb-4 font-semibold">Color</h2>
       <div className="grid grid-cols-5 gap-4">
         {colors.map((color, index) => {
           const found = selected.includes(color.id);
